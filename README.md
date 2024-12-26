@@ -1,5 +1,3 @@
-# Olympics-Athletes2024
-
 Buscador de Atletas Brasileiros
 O que faz esse código?
 Este código HTML cria uma página web simples que funciona como um buscador de atletas brasileiros. O usuário pode digitar o nome de um atleta ou esporte e o código irá procurar por esses termos em uma base de dados e exibir os resultados correspondentes.
